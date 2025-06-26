@@ -46,7 +46,7 @@ const BuscarEstudiante = () => {
   };
 
   return (
-    <div className="w-full max-w-6xl mx-auto mt-10 p-8 bg-white/90 rounded-3xl shadow-2xl border border-blue-100">
+    <div className="w-full max-w-6xl mx-auto mt-10 p-8 bg-white rounded-3xl shadow-2xl border border-blue-100">
       <h2 className="text-3xl font-bold text-blue-800 mb-8 text-center flex items-center justify-center gap-3">
         <FontAwesomeIcon icon={faSearch} className="text-blue-600" />
         Buscar Estudiante
