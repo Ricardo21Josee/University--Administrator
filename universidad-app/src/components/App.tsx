@@ -1,3 +1,16 @@
+/**
+ * ============================
+ * University--Administrator--React
+ * Author: Ricardo Márquez
+ * GitHub: https://github.com/Ricardo21Josee
+ * LinkedIn: https://www.linkedin.com/in/ric21marquez
+ * Instagram: @mar_quez_g
+ * Threads: @mar_quez_g
+ * Email: josemarquez21garcia@gmail.com
+ * ============================
+ */
+
+
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useLocation } from 'react-router-dom';
 import Home from '../pages/Home';
